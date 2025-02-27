@@ -6,4 +6,5 @@ concrete_content.py filter=lfs diff=lfs merge=lfs -text
 description.py filter=lfs diff=lfs merge=lfs -text
 environment.yml filter=lfs diff=lfs merge=lfs -text
 main.py filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
 package/package_win.tar.gz filter=lfs diff=lfs merge=lfs -text
