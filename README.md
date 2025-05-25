@@ -3,12 +3,12 @@
 **MarkushClaim**, an innovative solution for automated drafting of Markush claims. 
 <p align="center">
   <a href="https://www.lilab-ecust.cn/markushclaim" target="_blank">
-    <img src="[images/markush_web_preview.png](https://github.com/rwu527/MarkushClaim/blob/main/logo.png)" width="600">
+    <img src="https://github.com/rwu527/MarkushClaim/raw/main/logo.png" alt="MarkushClaim Logo" width="300">
   </a>
 </p>
 
 <p align="center">
-  👉 Try it now: <a href="https://www.lilab-ecust.cn/markushclaim">https://www.lilab-ecust.cn/markushclaim</a>
+  👉 Visit our platform: <a href="https://www.lilab-ecust.cn/markushclaim">https://www.lilab-ecust.cn/markushclaim</a>
 </p>
 
 ## Installation
