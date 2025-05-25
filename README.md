@@ -1,7 +1,15 @@
 # MarkushClaim
 
 **MarkushClaim**, an innovative solution for automated drafting of Markush claims. 
+<p align="center">
+  <a href="https://www.lilab-ecust.cn/markushclaim" target="_blank">
+    <img src="images/markush_web_preview.png" alt="MarkushClaim Web Platform" width="600">
+  </a>
+</p>
 
+<p align="center">
+  👉 Try it now: <a href="https://www.lilab-ecust.cn/markushclaim">https://www.lilab-ecust.cn/markushclaim</a>
+</p>
 
 ## Installation
 
