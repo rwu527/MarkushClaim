@@ -1,15 +1,26 @@
 # MarkushClaim
 
-**MarkushClaim**, an innovative solution for automated drafting of Markush claims. 
+<h1 align="center">MarkushClaim</h1>
+
 <p align="center">
   <a href="https://www.lilab-ecust.cn/markushclaim" target="_blank">
-    <img src="https://github.com/rwu527/MarkushClaim/raw/main/logo.png" alt="MarkushClaim Logo" width="300">
+    <img src="https://github.com/rwu527/MarkushClaim/raw/main/logo.png" alt="MarkushClaim Logo" width="250">
   </a>
 </p>
 
 <p align="center">
-  👉 Visit our platform: <a href="https://www.lilab-ecust.cn/markushclaim">https://www.lilab-ecust.cn/markushclaim</a>
+  <b>An innovative solution for automated drafting and expansion of Markush claims.</b>
 </p>
+
+<p align="center">
+  👉 <a href="https://www.lilab-ecust.cn/markushclaim" target="_blank"><strong>Visit the Online Platform</strong></a>
+</p>
+
+---
+
+MarkushClaim is a web-based platform that allows users to input molecular structures and automatically generate Markush claims.  
+It supports intelligent substructure analysis and systematic enumeration of chemical space for patent drafting and exploration.
+
 
 ## Installation
 
