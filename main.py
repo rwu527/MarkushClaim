@@ -88,7 +88,7 @@ def run_pipeline(file_path, output_folder):
 
 if __name__ == "__main__":
     try:
-        input_path = input("请输入输入文件路径（SDF 或 CSV）: ").strip()
+        input_path = input("Please enter the input file path (SDF or CSV): ").strip()
         output_path = os.path.join(os.path.dirname(input_path), "output")
 
         result_folder = run_pipeline(input_path, output_path)
@@ -96,7 +96,8 @@ if __name__ == "__main__":
     except Exception as e:
         error_message = traceback.format_exc()
         logging.error(f"An error occurred:\n{error_message}")
-        print(f"❌ 错误发生：{e}")
+        print(f"❌ An error occurred: {e}")
+
 
 
 
