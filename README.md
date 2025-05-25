@@ -1,4 +1,3 @@
-# MarkushClaim
 
 <h1 align="center">MarkushClaim</h1>
 
